@@ -1,5 +1,6 @@
 # Amazing Flutter UI Desing
 
+
 ![alt text](https://raw.githubusercontent.com/kalismeras61/flutter_card_desing/master/appimage/home.png)
 ![alt text](https://raw.githubusercontent.com/kalismeras61/flutter_card_desing/master/appimage/loginpage.png)
 ![alt text](https://raw.githubusercontent.com/kalismeras61/flutter_card_desing/master/appimage/giftcard.png)
@@ -9,8 +10,6 @@
 
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
